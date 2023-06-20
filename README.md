@@ -1,4 +1,4 @@
-# How to Run
+# To get this repo running....
 
 - run `python catergorize.py` in a setup python 3 environment
 - ensure test1.csv is in the same folder as the python script.
@@ -17,3 +17,6 @@
 # test1.csv
 
 - data sorted by ChatGPT with the number of the suggestion
+
+# About
+Test on CHATGPT3's ability to categorize student issues into labeled buckets
